@@ -60,6 +60,10 @@
 </div>
 </details>
 
+
+## 집합소
+- https://app.gather.town/app/wrJJeVsATiSAwRGp/boost
+
 ## 문제 출처
 - [백준 [BOJ]](https://www.acmicpc.net/)
 - [앳코더 [ATC]](https://atcoder.jp/)
