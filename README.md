@@ -19,7 +19,12 @@
 <summary><h3>민조</h3></summary>
 <div markdown="1">
 
-[BOJ_1238_파티](https://www.acmicpc.net/problem/1238) (2025-01-01)
+|주차|날짜|출처|문제|
+|--|--|--|--|
+|**1주차** |2025.01.01|백준|[파티](https://www.acmicpc.net/problem/1238)
+|**2주차** |2025.01.08|ex)백준|문제|
+
+
 
 </div>
 </details>
@@ -28,7 +33,10 @@
 <summary><h3>헌우</h3></summary>
 <div markdown="1">
 
-[BOJ_15661_링크와_스타트](https://www.acmicpc.net/problem/15661) (2025-01-01)
+|주차|날짜|출처|문제|
+|--|--|--|--|
+|**1주차** |2025.01.01|백준|[링크와 스타트](https://www.acmicpc.net/problem/15661)
+|**2주차** |2025.01.08|ex)백준|문제|
 
 </div>
 </details>
@@ -37,7 +45,10 @@
 <summary><h3>준식</h3></summary>
 <div markdown="1">
 
-[PRO_81305_시험장_나누기](https://school.programmers.co.kr/learn/courses/30/lessons/81305) (2025-01-01)
+|주차|날짜|출처|문제|
+|--|--|--|--|
+|**1주차** |2025.01.01|프로그래머스|[시험장 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/81305)
+|**2주차** |2025.01.08|ex)백준|문제|
 
 </div>
 </details>
@@ -46,7 +57,10 @@
 <summary><h3>재한</h3></summary>
 <div markdown="1">
 
-[BOJ_2637_장난감_조립](https://www.acmicpc.net/problem/2637) (2025-01-01)
+|주차|날짜|출처|문제|
+|--|--|--|--|
+|**1주차** |2025.01.01|백준|[장난감 조립](https://www.acmicpc.net/problem/2637)
+|**2주차** |2025.01.08|ex)백준|문제|
 
 </div>
 </details>
@@ -55,7 +69,10 @@
 <summary><h3>영호</h3></summary>
 <div markdown="1">
 
-[BOJ_18869_멀티버스2](https://www.acmicpc.net/problem/18869) (2025-01-01)
+|주차|날짜|출처|문제|
+|--|--|--|--|
+|**1주차** |2025.01.01|백준|[멀티버스 2](https://www.acmicpc.net/problem/18869)
+|**2주차** |2025.01.08|ex)백준|문제|
 
 </div>
 </details>
