@@ -36,7 +36,7 @@
 |주차|날짜|출처|문제|
 |--|--|--|--|
 |**1주차** |2025.01.01|백준|[링크와 스타트](https://www.acmicpc.net/problem/15661)
-|**2주차** |2025.01.08|백준|[전깃줄2](https://www.acmicpc.net/problem/2568)|
+|**2주차** |2025.01.08|앳코더|[Diagonal Separation](https://atcoder.jp/contests/abc386/tasks/abc386_d)|
 
 </div>
 </details>
