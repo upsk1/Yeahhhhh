@@ -48,7 +48,7 @@
 |주차|날짜|출처|문제|
 |--|--|--|--|
 |**1주차** |2025.01.01|프로그래머스|[시험장 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/81305)
-|**2주차** |2025.01.08|ex)백준|문제|
+|**2주차** |2025.01.08|백준|[달리기](https://www.acmicpc.net/problem/2517)|
 
 </div>
 </details>
