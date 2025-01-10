@@ -37,6 +37,7 @@
 |--|--|--|--|
 |**1주차** |2025.01.01|백준|[링크와 스타트](https://www.acmicpc.net/problem/15661)
 |**2주차** |2025.01.08|백준|[전깃줄2](https://www.acmicpc.net/problem/2568)|
+|**3주차** |2025.01.13|프로그래머스|[길 찾기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/42892)|
 
 </div>
 </details>
