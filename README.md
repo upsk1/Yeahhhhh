@@ -23,7 +23,7 @@
 |--|--|--|--|
 |**1주차** |2025.01.01|백준|[파티](https://www.acmicpc.net/problem/1238)
 |**2주차** |2025.01.08|앳코더|[Diagonal Separation](https://atcoder.jp/contests/abc386/tasks/abc386_d)|
-
+|**3주차** |2025.01.13|백준|[마왕의 성](https://www.acmicpc.net/problem/28083)|
 
 
 </div>
