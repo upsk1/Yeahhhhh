@@ -50,6 +50,7 @@
 |--|--|--|--|
 |**1주차** |2025.01.01|프로그래머스|[시험장 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/81305)
 |**2주차** |2025.01.08|백준|[달리기](https://www.acmicpc.net/problem/2517)|
+|**3주차** |2025.01.13|백준|[물병](https://www.acmicpc.net/problem/1052)|
 
 </div>
 </details>
