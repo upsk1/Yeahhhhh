@@ -78,6 +78,8 @@
 |**1주차** |2025.01.01|백준|[멀티버스 2](https://www.acmicpc.net/problem/18869)
 |**2주차** |2025.01.08|백준|[비숍](https://www.acmicpc.net/problem/1799)|
 |**3주차** |2025.01.13|프로그래머스|[아이템줍기](https://school.programmers.co.kr/learn/courses/30/lessons/87694)|
+|**4주차** |2025.01.23|백준|[합이 0인 네 정수](https://www.acmicpc.net/problem/7453)|
+
 
 </div>
 </details>
