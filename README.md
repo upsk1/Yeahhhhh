@@ -52,7 +52,7 @@
 |**1주차** |2025.01.01|프로그래머스|[시험장 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/81305)
 |**2주차** |2025.01.08|백준|[달리기](https://www.acmicpc.net/problem/2517)|
 |**3주차** |2025.01.13|백준|[물병](https://www.acmicpc.net/problem/1052)|
-
+|**4주차** |2025.01.13|프로그래머스|[n+1 카드게임](https://school.programmers.co.kr/learn/courses/30/lessons/258707)|
 </div>
 </details>
 
@@ -64,7 +64,7 @@
 |--|--|--|--|
 |**1주차** |2025.01.01|백준|[장난감 조립](https://www.acmicpc.net/problem/2637)
 |**2주차** |2025.01.08|백준|[PPC 만들기](https://www.acmicpc.net/problem/31778)|
-|**3주차** |2025.01.13|프로그래머스|[미로탈출 명령어](https://school.programmers.co.kr/learn/courses/30/lessons/150365)|
+|**4주차** |2025.01.13|프로그래머스|[미로탈출 명령어](https://school.programmers.co.kr/learn/courses/30/lessons/150365)|
 |**3주차** |2025.01.23|프로그래머스|[표 병합](https://school.programmers.co.kr/learn/courses/30/lessons/150366)|
 
 </div>
