@@ -25,7 +25,7 @@
 |**2주차** |2025.01.08|앳코더|[Diagonal Separation](https://atcoder.jp/contests/abc386/tasks/abc386_d)|
 |**3주차** |2025.01.13|백준|[마왕의 성](https://www.acmicpc.net/problem/28083)|
 |**4주차** |2025.01.23|백준|[보석 줍기](https://www.acmicpc.net/problem/2208)|
-|**5주차** |2025.01.23|백준|[부분배열 고르기](https://www.acmicpc.net/problem/2104)|
+|**5주차** |2025.01.30|백준|[부분배열 고르기](https://www.acmicpc.net/problem/2104)|
 
 </div>
 </details>
