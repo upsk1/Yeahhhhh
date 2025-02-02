@@ -69,9 +69,10 @@
 |--|--|--|--|
 |**1주차** |2025.01.01|백준|[장난감 조립](https://www.acmicpc.net/problem/2637)
 |**2주차** |2025.01.08|백준|[PPC 만들기](https://www.acmicpc.net/problem/31778)|
-|**4주차** |2025.01.13|프로그래머스|[미로탈출 명령어](https://school.programmers.co.kr/learn/courses/30/lessons/150365)|
+|**3주차** |2025.01.13|프로그래머스|[미로탈출 명령어](https://school.programmers.co.kr/learn/courses/30/lessons/150365)|
 |**4주차** |2025.01.23|프로그래머스|[표 병합](https://school.programmers.co.kr/learn/courses/30/lessons/150366)|
 |**5주차** |2025.01.30|백준|[성곽](https://www.acmicpc.net/problem/2234)|
+|**6주차** |2025.02.04|백준|[두번째 트리의 지름](https://www.acmicpc.net/problem/19581)|
 
 </div>
 </details>
