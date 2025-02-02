@@ -41,6 +41,8 @@
 |**3주차** |2025.01.13|프로그래머스|[길 찾기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/42892)|
 |**4주차** |2025.01.23|백준|[N-queen](https://www.acmicpc.net/problem/3344)|
 |**5주차** |2025.01.30|프로그래머스|[카드 짝 맞추기](https://school.programmers.co.kr/learn/courses/30/lessons/72415)|
+|**6주차** |2025.02.04|프로그래머스|[양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)|
+
 
 </div>
 </details>
