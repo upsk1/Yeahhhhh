@@ -58,6 +58,7 @@
 |**3주차** |2025.01.13|백준|[물병](https://www.acmicpc.net/problem/1052)|
 |**4주차** |2025.01.23|프로그래머스|[n+1 카드게임](https://school.programmers.co.kr/learn/courses/30/lessons/258707)|
 |**5주차** |2025.01.30|백준|[도형](https://www.acmicpc.net/problem/1121)|
+|**6주차** |2025.02.04|백준|[소수의 곱](https://www.acmicpc.net/problem/2014)|
 </div>
 </details>
 
