@@ -26,6 +26,7 @@
 |**3주차** |2025.01.13|백준|[마왕의 성](https://www.acmicpc.net/problem/28083)|
 |**4주차** |2025.01.23|백준|[보석 줍기](https://www.acmicpc.net/problem/2208)|
 |**5주차** |2025.01.30|백준|[부분배열 고르기](https://www.acmicpc.net/problem/2104)|
+|**6주차** |2025.02.04|백준|[배열에서 이동](https://www.acmicpc.net/problem/1981)|
 
 </div>
 </details>
