@@ -92,6 +92,7 @@
 |**4주차** |2025.01.23|백준|[합이 0인 네 정수](https://www.acmicpc.net/problem/7453)|
 |**5주차** |2025.01.30|프로그래머스|[주사위 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/258709)|
 |**6주차** |2025.02.04|백준|[말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600)|
+|**7주차** |2025.02.13|백준|[최솟값 찾기](https://www.acmicpc.net/problem/11003)|
 </div>
 </details>
 
