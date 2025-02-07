@@ -27,6 +27,7 @@
 |**4주차** |2025.01.23|백준|[보석 줍기](https://www.acmicpc.net/problem/2208)|
 |**5주차** |2025.01.30|백준|[부분배열 고르기](https://www.acmicpc.net/problem/2104)|
 |**6주차** |2025.02.04|백준|[배열에서 이동](https://www.acmicpc.net/problem/1981)|
+|**7주차** |2025.02.13|코드포스|[Fake Plastic Trees](https://codeforces.com/contest/1694/problem/D)|
 
 </div>
 </details>
