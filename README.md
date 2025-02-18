@@ -63,6 +63,7 @@
 |**5주차** |2025.01.30|백준|[도형](https://www.acmicpc.net/problem/1121)|
 |**6주차** |2025.02.04|백준|[소수의 곱](https://www.acmicpc.net/problem/2014)|
 |**7주차** |2025.02.13|백준|[사탕상자](https://www.acmicpc.net/problem/2243)|
+|**8주차** |2025.02.20|백준|[석판](https://www.acmicpc.net/problem/1691)|
 </div>
 </details>
 
@@ -79,7 +80,6 @@
 |**5주차** |2025.01.30|백준|[성곽](https://www.acmicpc.net/problem/2234)|
 |**6주차** |2025.02.04|백준|[두번째 트리의 지름](https://www.acmicpc.net/problem/19581)|
 |**7주차** |2025.02.04|백준|[낚시왕](https://www.acmicpc.net/problem/17143)|
-|**8주차** |2025.02.20|백준|[석판](https://www.acmicpc.net/problem/1691)|
 </div>
 </details>
 
