@@ -79,6 +79,7 @@
 |**5주차** |2025.01.30|백준|[성곽](https://www.acmicpc.net/problem/2234)|
 |**6주차** |2025.02.04|백준|[두번째 트리의 지름](https://www.acmicpc.net/problem/19581)|
 |**7주차** |2025.02.04|백준|[낚시왕](https://www.acmicpc.net/problem/17143)|
+|**8주차** |2025.02.20|백준|[석판](https://www.acmicpc.net/problem/1691)|
 </div>
 </details>
 
