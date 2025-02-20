@@ -64,6 +64,7 @@
 |**6주차** |2025.02.04|백준|[소수의 곱](https://www.acmicpc.net/problem/2014)|
 |**7주차** |2025.02.13|백준|[사탕상자](https://www.acmicpc.net/problem/2243)|
 |**8주차** |2025.02.20|백준|[석판](https://www.acmicpc.net/problem/1691)|
+|**9주차** |2025.02.27|백준|[트리의 독립집합](https://www.acmicpc.net/problem/2213)|
 </div>
 </details>
 
