@@ -29,6 +29,7 @@
 |**6주차** |2025.02.04|백준|[배열에서 이동](https://www.acmicpc.net/problem/1981)|
 |**7주차** |2025.02.13|코드포스|[Fake Plastic Trees](https://codeforces.com/contest/1694/problem/D)|
 |**8주차** |2025.02.20|백준|[파일 합치기](https://www.acmicpc.net/problem/11066)|
+|**9주차** |2025.02.27|백준|[욕심쟁이 판다](https://www.acmicpc.net/problem/1937)|
 
 </div>
 </details>
@@ -46,6 +47,7 @@
 |**5주차** |2025.01.30|프로그래머스|[카드 짝 맞추기](https://school.programmers.co.kr/learn/courses/30/lessons/72415)|
 |**6주차** |2025.02.04|프로그래머스|[양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)|
 |**7주차** |2025.02.13|프로그래머스|[외벽점검](https://school.programmers.co.kr/learn/courses/30/lessons/60062)|
+|**9주차** |2025.02.27|백준|[행렬 곱셈 순서](https://www.acmicpc.net/problem/11049)|
 
 </div>
 </details>
@@ -81,6 +83,7 @@
 |**5주차** |2025.01.30|백준|[성곽](https://www.acmicpc.net/problem/2234)|
 |**6주차** |2025.02.04|백준|[두번째 트리의 지름](https://www.acmicpc.net/problem/19581)|
 |**7주차** |2025.02.04|백준|[낚시왕](https://www.acmicpc.net/problem/17143)|
+|**9주차** |2025.02.27|백준|[외판원 순회](https://www.acmicpc.net/problem/2098)|
 </div>
 </details>
 
@@ -98,6 +101,7 @@
 |**6주차** |2025.02.04|백준|[말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600)|
 |**7주차** |2025.02.13|백준|[최솟값 찾기](https://www.acmicpc.net/problem/11003)|
 |**8주차** |2025.02.20|백준|[퇴사2](https://www.acmicpc.net/problem/15486)|
+|**9주차** |2025.02.27|백준|[기계오리 연구](https://www.acmicpc.net/problem/28082)|
 </div>
 </details>
 
