@@ -16,6 +16,16 @@
 ## 이번주 문제 
 
 <details>
+<summary><h3>오윤</h3></summary>
+<div markdown="1">
+
+|주차|날짜|출처|문제|
+|--|--|--|--|
+
+</div>
+</details>
+
+<details>
 <summary><h3>민조</h3></summary>
 <div markdown="1">
 
@@ -84,6 +94,16 @@
 |**6주차** |2025.02.04|백준|[두번째 트리의 지름](https://www.acmicpc.net/problem/19581)|
 |**7주차** |2025.02.04|백준|[낚시왕](https://www.acmicpc.net/problem/17143)|
 |**9주차** |2025.02.27|백준|[외판원 순회](https://www.acmicpc.net/problem/2098)|
+</div>
+</details>
+
+<details>
+<summary><h3>형선</h3></summary>
+<div markdown="1">
+
+|주차|날짜|출처|문제|
+|--|--|--|--|
+
 </div>
 </details>
 
