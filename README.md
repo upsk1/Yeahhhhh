@@ -122,6 +122,7 @@
 |**7주차** |2025.02.13|백준|[최솟값 찾기](https://www.acmicpc.net/problem/11003)|
 |**8주차** |2025.02.20|백준|[퇴사2](https://www.acmicpc.net/problem/15486)|
 |**9주차** |2025.02.27|백준|[기계오리 연구](https://www.acmicpc.net/problem/28082)|
+|**10주차** |2025.03.04|백준|[달려라 홍준](https://www.acmicpc.net/problem/1306)|
 </div>
 </details>
 
