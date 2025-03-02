@@ -41,6 +41,7 @@
 |**7주차** |2025.02.13|코드포스|[Fake Plastic Trees](https://codeforces.com/contest/1694/problem/D)|
 |**8주차** |2025.02.20|백준|[파일 합치기](https://www.acmicpc.net/problem/11066)|
 |**9주차** |2025.02.27|백준|[욕심쟁이 판다](https://www.acmicpc.net/problem/1937)|
+|**10주차** |2025.03.04|코드포스|[Find the Permutation](https://codeforces.com/contest/2056/problem/B)|
 
 </div>
 </details>
