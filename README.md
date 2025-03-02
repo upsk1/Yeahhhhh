@@ -81,6 +81,7 @@
 |**7주차** |2025.02.13|백준|[사탕상자](https://www.acmicpc.net/problem/2243)|
 |**8주차** |2025.02.20|백준|[석판](https://www.acmicpc.net/problem/1691)|
 |**9주차** |2025.02.27|백준|[트리의 독립집합](https://www.acmicpc.net/problem/2213)|
+|**10주차** |2025.03.04|백준|[택배](https://www.acmicpc.net/problem/8980)|
 </div>
 </details>
 
