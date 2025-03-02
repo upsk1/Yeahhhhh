@@ -59,7 +59,9 @@
 |**5주차** |2025.01.30|프로그래머스|[카드 짝 맞추기](https://school.programmers.co.kr/learn/courses/30/lessons/72415)|
 |**6주차** |2025.02.04|프로그래머스|[양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)|
 |**7주차** |2025.02.13|프로그래머스|[외벽점검](https://school.programmers.co.kr/learn/courses/30/lessons/60062)|
+|**8주차** |2025.02.20|프로그래머스|[단어퍼즐](https://school.programmers.co.kr/learn/courses/30/lessons/12983)|
 |**9주차** |2025.02.27|백준|[행렬 곱셈 순서](https://www.acmicpc.net/problem/11049)|
+|**10주차** |2025.03.04|백준|[사라지는 발판](https://school.programmers.co.kr/learn/courses/30/lessons/92345)|
 
 </div>
 </details>
