@@ -22,6 +22,7 @@
 |주차|날짜|출처|문제|
 |--|--|--|--|
 |**10주차** |2025.03.04|백준|[컬러볼](https://www.acmicpc.net/problem/10800)|
+|**11주차** |2025.03.11|백준|[문제집](https://www.acmicpc.net/problem/1766)|
 
 </div>
 </details>
