@@ -130,6 +130,7 @@
 |**8주차** |2025.02.20|백준|[퇴사2](https://www.acmicpc.net/problem/15486)|
 |**9주차** |2025.02.27|백준|[기계오리 연구](https://www.acmicpc.net/problem/28082)|
 |**10주차** |2025.03.04|백준|[달려라 홍준](https://www.acmicpc.net/problem/1306)|
+|**11주차** |2025.03.11|백준|[이분 그래프](https://www.acmicpc.net/problem/1707)|
 </div>
 </details>
 
