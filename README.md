@@ -43,6 +43,7 @@
 |**8주차** |2025.02.20|백준|[파일 합치기](https://www.acmicpc.net/problem/11066)|
 |**9주차** |2025.02.27|백준|[욕심쟁이 판다](https://www.acmicpc.net/problem/1937)|
 |**10주차** |2025.03.04|코드포스|[Find the Permutation](https://codeforces.com/contest/2056/problem/B)|
+|**11주차** |2025.03.11|코드포스|[Shape Perimeter](https://codeforces.com/contest/2056/problem/A)|
 
 </div>
 </details>
