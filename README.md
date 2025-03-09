@@ -113,6 +113,7 @@
 |주차|날짜|출처|문제|
 |--|--|--|--|
 |**10주차** |2025.03.04|백준|[고층 빌딩](https://www.acmicpc.net/problem/1328)|
+|**11주차** |2025.03.11|백준|[열혈강호](https://www.acmicpc.net/problem/11375)|
 
 </div>
 </details>
