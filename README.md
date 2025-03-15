@@ -87,6 +87,7 @@
 |**9주차** |2025.02.27|백준|[트리의 독립집합](https://www.acmicpc.net/problem/2213)|
 |**10주차** |2025.03.04|백준|[택배](https://www.acmicpc.net/problem/8980)|
 |**11주차** |2025.03.11|백준|[가희와 프로세스 2](https://www.acmicpc.net/problem/21778)|
+|**12주차** |2025.03.18|백준|[방의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/49190)|
 </div>
 </details>
 
