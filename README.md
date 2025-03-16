@@ -137,6 +137,7 @@
 |**9주차** |2025.02.27|백준|[기계오리 연구](https://www.acmicpc.net/problem/28082)|
 |**10주차** |2025.03.04|백준|[달려라 홍준](https://www.acmicpc.net/problem/1306)|
 |**11주차** |2025.03.11|백준|[이분 그래프](https://www.acmicpc.net/problem/1707)|
+|**12주차** |2025.03.18|백준|[등대](https://school.programmers.co.kr/learn/courses/30/lessons/133500)|
 </div>
 </details>
 
