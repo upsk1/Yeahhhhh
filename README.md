@@ -45,6 +45,7 @@
 |**9주차** |2025.02.27|백준|[욕심쟁이 판다](https://www.acmicpc.net/problem/1937)|
 |**10주차** |2025.03.04|코드포스|[Find the Permutation](https://codeforces.com/contest/2056/problem/B)|
 |**11주차** |2025.03.11|코드포스|[Shape Perimeter](https://codeforces.com/contest/2056/problem/A)|
+|**12주차** |2025.03.18|백준|[대표 선수](https://www.acmicpc.net/problem/2461)|
 
 </div>
 </details>
