@@ -67,6 +67,7 @@
 |**9주차** |2025.02.27|백준|[행렬 곱셈 순서](https://www.acmicpc.net/problem/11049)|
 |**10주차** |2025.03.04|백준|[사라지는 발판](https://school.programmers.co.kr/learn/courses/30/lessons/92345)|
 |**11주차** |2025.03.11|백준|[도로포장](https://www.acmicpc.net/problem/1162)|
+|**12주차** |2025.03.18|백준|[재활용 캠페인](https://www.acmicpc.net/problem/22988)|
 
 </div>
 </details>
