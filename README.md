@@ -46,6 +46,7 @@
 |**10주차** |2025.03.04|코드포스|[Find the Permutation](https://codeforces.com/contest/2056/problem/B)|
 |**11주차** |2025.03.11|코드포스|[Shape Perimeter](https://codeforces.com/contest/2056/problem/A)|
 |**12주차** |2025.03.18|백준|[대표 선수](https://www.acmicpc.net/problem/2461)|
+|**13주차** |2025.03.23|코드포스|[pspspsps](https://codeforces.com/contest/2049/problem/B)|
 
 </div>
 </details>
