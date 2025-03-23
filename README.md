@@ -24,6 +24,7 @@
 |**10주차** |2025.03.04|백준|[컬러볼](https://www.acmicpc.net/problem/10800)|
 |**11주차** |2025.03.11|백준|[문제집](https://www.acmicpc.net/problem/1766)|
 |**12주차** |2025.03.18|프로그래머스|[봉인된 주문](https://school.programmers.co.kr/learn/courses/30/lessons/389481)|
+|**13주차** |2025.03.25|백준|[다이어트](https://www.acmicpc.net/problem/19942)|
 
 </div>
 </details>
