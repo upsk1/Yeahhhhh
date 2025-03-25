@@ -93,6 +93,7 @@
 |**10주차** |2025.03.04|백준|[택배](https://www.acmicpc.net/problem/8980)|
 |**11주차** |2025.03.11|백준|[가희와 프로세스 2](https://www.acmicpc.net/problem/21778)|
 |**12주차** |2025.03.18|프로그래머스|[방의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/49190)|
+|**13주차** |2025.03.25|백준|[한동이는 영업사원!](https://www.acmicpc.net/problem/8012)|
 </div>
 </details>
 
