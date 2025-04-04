@@ -71,6 +71,7 @@
 |**11주차** |2025.03.11|백준|[도로포장](https://www.acmicpc.net/problem/1162)|
 |**12주차** |2025.03.18|백준|[재활용 캠페인](https://www.acmicpc.net/problem/22988)|
 |**13주차** |2025.03.25|백준|[로봇 조종하기](https://www.acmicpc.net/problem/2169)|
+|**14주차** |2025.04.08|백준|[약 팔기](https://www.acmicpc.net/problem/15311)|
 
 </div>
 </details>
