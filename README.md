@@ -48,7 +48,9 @@
 |**11주차** |2025.03.11|코드포스|[Shape Perimeter](https://codeforces.com/contest/2056/problem/A)|
 |**12주차** |2025.03.18|백준|[대표 선수](https://www.acmicpc.net/problem/2461)|
 |**13주차** |2025.03.23|코드포스|[pspspsps](https://codeforces.com/contest/2049/problem/B)|
-|**14주차** |2025.03.23|백준|[감시](https://www.acmicpc.net/problem/15683)|
+|**14주차** |2025.04.08|백준|[감시](https://www.acmicpc.net/problem/15683)|
+|**15주차** |2025.04.15|코드포스|[Greedy Monocarp](https://codeforces.com/contest/2042/problem/A)|
+
 
 </div>
 </details>
