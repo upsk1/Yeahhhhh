@@ -166,6 +166,7 @@
 |주차|날짜|출처|문제|
 |--|--|--|--|
 |**14주차** |2025.04.08|해커랭크|[Bear and Steady Gene](https://www.hackerrank.com/challenges/bear-and-steady-gene/problem?isFullScreen=true)|
+|**15주차** |2025.04.15|백준|[등산 마니아](https://www.acmicpc.net/problem/20188)|
 </div>
 </details>
 
