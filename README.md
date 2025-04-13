@@ -132,6 +132,8 @@
 |**12주차** |2025.03.18|백준|[에어컨](https://school.programmers.co.kr/learn/courses/30/lessons/214289)|
 |**13주차** |2025.03.25|백준|[전구와 스위치](https://www.acmicpc.net/problem/2138)|
 |**14주차** |2025.04.08|백준|[평범한 배낭 2](https://www.acmicpc.net/problem/12920)|
+|**15주차** |2025.04.15|백준|[크게 만들기](https://www.acmicpc.net/problem/2812)|
+
 
 
 
