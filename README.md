@@ -100,6 +100,7 @@
 |**12주차** |2025.03.18|프로그래머스|[방의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/49190)|
 |**13주차** |2025.03.25|백준|[한동이는 영업사원!](https://www.acmicpc.net/problem/8012)|
 |**14주차** |2025.04.08|백준|[초직사각형](https://www.acmicpc.net/problem/21761)|
+|**15주차** |2025.04.15|백준|[쿨한 물건 구매](https://www.acmicpc.net/problem/1214)|
 </div>
 </details>
 
