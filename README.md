@@ -104,6 +104,7 @@
 |**13주차** |2025.03.25|백준|[한동이는 영업사원!](https://www.acmicpc.net/problem/8012)|
 |**14주차** |2025.04.08|백준|[초직사각형](https://www.acmicpc.net/problem/21761)|
 |**15주차** |2025.04.15|백준|[쿨한 물건 구매](https://www.acmicpc.net/problem/1214)|
+|**17주차** |2025.04.29|백준|[KUBC League (Small)](https://www.acmicpc.net/problem/14590)|
 </div>
 </details>
 
