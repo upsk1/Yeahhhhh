@@ -51,7 +51,7 @@
 |**14주차** |2025.04.08|백준|[감시](https://www.acmicpc.net/problem/15683)|
 |**15주차** |2025.04.15|코드포스|[Greedy Monocarp](https://codeforces.com/contest/2042/problem/A)|
 |**16주차** |2025.04.22|코드포스|[Paint a Strip](https://codeforces.com/contest/2040/problem/B)|
-|**17주차** |2025.04.22|백준|[Untie](https://www.acmicpc.net/problem/29783)|
+|**17주차** |2025.04.29|백준|[Untie](https://www.acmicpc.net/problem/29783)|
 
 </div>
 </details>
