@@ -173,7 +173,8 @@
 |--|--|--|--|
 |**14주차** |2025.04.08|해커랭크|[Bear and Steady Gene](https://www.hackerrank.com/challenges/bear-and-steady-gene/problem?isFullScreen=true)|
 |**15주차** |2025.04.15|백준|[등산 마니아](https://www.acmicpc.net/problem/20188)|
-|**16주차** |2025.04.|백준|[하늘에서 별똥별이 빗발친다](https://www.acmicpc.net/problem/14658)|
+|**16주차** |2025.04.22|백준|[하늘에서 별똥별이 빗발친다](https://www.acmicpc.net/problem/14658)|
+|**17주차** |2025.04.29|백준|[피자판매](https://www.acmicpc.net/problem/2632)|
 </div>
 </details>
 
