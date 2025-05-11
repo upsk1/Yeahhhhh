@@ -53,6 +53,7 @@
 |**16주차** |2025.04.22|코드포스|[Paint a Strip](https://codeforces.com/contest/2040/problem/B)|
 |**17주차** |2025.04.29|백준|[Untie](https://www.acmicpc.net/problem/29783)|
 |**18주차** |2025.05.06|백준|[북서풍](https://www.acmicpc.net/problem/5419)|
+|**19주차** |2025.05.13|코드포스|[Penchick and Desert Rabbit](https://codeforces.com/contest/2031/problem/D)|
 
 </div>
 </details>
