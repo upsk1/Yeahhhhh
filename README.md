@@ -82,6 +82,7 @@
 |**16주차** |2025.04.22|백준|[줄서기](https://www.acmicpc.net/problem/14864)|
 |**17주차** |2025.04.29|백준|[램프](https://www.acmicpc.net/problem/1034)|
 |**18주차** |2025.05.06|백준|[세계를 만들어요](https://www.acmicpc.net/problem/32301)|
+|**19주차** |2025.05.13|백준|[게임을 만들어요](https://www.acmicpc.net/problem/32299)|
 
 
 </div>
