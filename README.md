@@ -52,6 +52,7 @@
 |**15주차** |2025.04.15|코드포스|[Greedy Monocarp](https://codeforces.com/contest/2042/problem/A)|
 |**16주차** |2025.04.22|코드포스|[Paint a Strip](https://codeforces.com/contest/2040/problem/B)|
 |**17주차** |2025.04.29|백준|[Untie](https://www.acmicpc.net/problem/29783)|
+|**18주차** |2025.05.06|백준|[북서풍](https://www.acmicpc.net/problem/5419)|
 
 </div>
 </details>
@@ -107,6 +108,7 @@
 |**14주차** |2025.04.08|백준|[초직사각형](https://www.acmicpc.net/problem/21761)|
 |**15주차** |2025.04.15|백준|[쿨한 물건 구매](https://www.acmicpc.net/problem/1214)|
 |**17주차** |2025.04.29|백준|[KUBC League (Small)](https://www.acmicpc.net/problem/14590)|
+|**18주차** |2025.05.06|백준|[소트](https://www.acmicpc.net/problem/1071)|
 </div>
 </details>
 
@@ -140,6 +142,8 @@
 |**14주차** |2025.04.08|백준|[평범한 배낭 2](https://www.acmicpc.net/problem/12920)|
 |**15주차** |2025.04.15|백준|[크게 만들기](https://www.acmicpc.net/problem/2812)|
 |**17주차** |2025.04.29|백준|[휴게소 세우기](https://www.acmicpc.net/problem/1477)|
+|**18주차** |2025.05.06|백준|[경찰차](https://www.acmicpc.net/problem/2618)|
+|**19주차** |2025.05.13|소프티어|[출퇴근길](https://softeer.ai/practice/6248)|
 
 
 
