@@ -189,7 +189,7 @@
 |**17주차** |2025.04.29|백준|[피자판매](https://www.acmicpc.net/problem/2632)|
 |**18주차** |2025.05.06|백준|[뉴스 전하기](https://www.acmicpc.net/problem/1135)|
 |**19주차** |2025.05.13|백준|[인터넷 설치](https://www.acmicpc.net/problem/1800)|
-|**19주차** |2025.05.13|백준|[인터넷 설치](https://www.acmicpc.net/problem/1800)|
+|**20주차** |2025.05.28|백준|[행운쿠키 제작소](https://www.acmicpc.net/problem/10982)|
 </div>
 </details>
 
