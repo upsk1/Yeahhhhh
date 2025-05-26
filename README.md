@@ -147,6 +147,8 @@
 |**17주차** |2025.04.29|백준|[휴게소 세우기](https://www.acmicpc.net/problem/1477)|
 |**18주차** |2025.05.06|백준|[경찰차](https://www.acmicpc.net/problem/2618)|
 |**19주차** |2025.05.13|소프티어|[출퇴근길](https://softeer.ai/practice/6248)|
+|**20주차** |2025.05.28|백준|[Boss](https://www.acmicpc.net/problem/13625)|
+
 
 
 
