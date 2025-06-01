@@ -151,6 +151,8 @@
 |**18주차** |2025.05.06|백준|[경찰차](https://www.acmicpc.net/problem/2618)|
 |**19주차** |2025.05.13|소프티어|[출퇴근길](https://softeer.ai/practice/6248)|
 |**20주차** |2025.05.28|백준|[Boss](https://www.acmicpc.net/problem/13625)|
+|**21주차** |2025.06.03|백준|[사전](https://www.acmicpc.net/problem/1256)|
+
 
 
 
