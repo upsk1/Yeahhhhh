@@ -56,6 +56,7 @@
 |**19주차** |2025.05.13|코드포스|[Penchick and Desert Rabbit](https://codeforces.com/contest/2031/problem/D)|
 |**20주차** |2025.05.28|코드포스|[Nastia and a Good Array](https://codeforces.com/problemset/problem/1521/B)|
 |**21주차** |2025.06.03|코드포스|[Stalin Sort](https://codeforces.com/contest/2027/problem/B)|
+|**22주차** |2025.06.10|코드포스|[Black Cells](https://codeforces.com/contest/2026/problem/B)|
 
 </div>
 </details>
