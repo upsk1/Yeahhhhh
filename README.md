@@ -87,6 +87,7 @@
 |**19주차** |2025.05.13|백준|[게임을 만들어요](https://www.acmicpc.net/problem/32299)|
 |**20주차** |2025.05.27|프로그래머스|[상담원 인원](https://school.programmers.co.kr/learn/courses/30/lessons/214288)|
 |**21주차** |2025.06.03|백준|[호텔](https://www.acmicpc.net/problem/1106)|
+|**22주차** |2025.06.10|백준|[할로윈의 양아치](https://www.acmicpc.net/problem/20303)|
 
 
 </div>
