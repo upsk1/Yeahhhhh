@@ -198,6 +198,7 @@
 |**20주차** |2025.05.28|백준|[행운쿠키 제작소](https://www.acmicpc.net/problem/10982)|
 |**21주차** |2025.06.03|백준|[ソフトクリーム (Softcream)](https://www.acmicpc.net/problem/33175)|
 |**22주차** |2025.06.10|백준|[Load Balancing (Silver)](https://www.acmicpc.net/problem/11997)|
+|**23주차** |2025.06.17|백준|[책 나눠주기](https://www.acmicpc.net/problem/9576)|
 </div>
 </details>
 
