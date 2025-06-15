@@ -157,6 +157,8 @@
 |**20주차** |2025.05.28|백준|[Boss](https://www.acmicpc.net/problem/13625)|
 |**21주차** |2025.06.03|백준|[사전](https://www.acmicpc.net/problem/1256)|
 |**22주차** |2025.06.10|백준|[집배원 한상덕](https://www.acmicpc.net/problem/2842)|
+|**23주차** |2025.06.17|백준|[히스토그램에서 가장 큰 직사각형](https://www.acmicpc.net/problem/6549)|
+
 
 
 </div>
