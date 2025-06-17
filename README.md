@@ -147,7 +147,7 @@
 |--|--|--|--|
 |**10주차** |2025.03.04|백준|[고층 빌딩](https://www.acmicpc.net/problem/1328)|
 |**11주차** |2025.03.11|백준|[열혈강호](https://www.acmicpc.net/problem/11375)|
-|**12주차** |2025.03.18|백준|[에어컨](https://school.programmers.co.kr/learn/courses/30/lessons/214289)|
+|**12주차** |2025.03.18|프로그래머스|[에어컨](https://school.programmers.co.kr/learn/courses/30/lessons/214289)|
 |**13주차** |2025.03.25|백준|[전구와 스위치](https://www.acmicpc.net/problem/2138)|
 |**14주차** |2025.04.08|백준|[평범한 배낭 2](https://www.acmicpc.net/problem/12920)|
 |**15주차** |2025.04.15|백준|[크게 만들기](https://www.acmicpc.net/problem/2812)|
