@@ -158,6 +158,8 @@
 |**21주차** |2025.06.03|백준|[사전](https://www.acmicpc.net/problem/1256)|
 |**22주차** |2025.06.10|백준|[집배원 한상덕](https://www.acmicpc.net/problem/2842)|
 |**23주차** |2025.06.17|백준|[히스토그램에서 가장 큰 직사각형](https://www.acmicpc.net/problem/6549)|
+|**24주차** |2025.07.01|백준|[도시 왕복하기 2](https://www.acmicpc.net/problem/2316)|
+
 
 
 
