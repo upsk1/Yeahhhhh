@@ -91,6 +91,7 @@
 |**21주차** |2025.06.03|백준|[호텔](https://www.acmicpc.net/problem/1106)|
 |**22주차** |2025.06.10|백준|[할로윈의 양아치](https://www.acmicpc.net/problem/20303)|
 |**23주차** |2025.06.17|백준|[벡터 매칭](https://www.acmicpc.net/problem/1007)|
+|**24주차** |2025.07.01|코드트리|[민트초코우유](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/mint-choco-milk/description)|
 
 
 </div>
